@@ -13,7 +13,7 @@ The vision of Oeta Holdings:
 ### DEMO Environment
 The demo environment is intended to house readily available, IaC controlled demonstrations of Azure capabilities.
 
-Intedended to be usable by sales pods and consultant to quickly learn about our delivered best-practice capabilities and show case working solutions.
+Intended to be usable by sales pods and consultant to quickly learn about our delivered best-practice capabilities and show case working solutions.
 
 Capabilities within the environment are quickly reproduceable via Infrastructure as Code (IaC) pipelines as content and service showcases drift from source-control.
 
